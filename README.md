@@ -27,7 +27,7 @@ Aplicación gráfica para Windows que genera cuentas de Roblox automáticamente,
 ## ⚠️ Aviso Legal  
 Este software es solo para fines educativos. El uso inadecuado es responsabilidad del usuario.  
 
-📌 Soporte: soporte@tudominio.com  
+📌 Soporte: not.boris.yt@gmail.com
 ```
 
 ## ⚠️ Limitaciones  
