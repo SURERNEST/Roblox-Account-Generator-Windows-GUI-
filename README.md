@@ -11,7 +11,8 @@ Aplicación gráfica para Windows que genera cuentas de Roblox automáticamente,
 ## ⚙️ Instalación  
 1. Descarga el archivo  
 2. Ejecuta el instalador y sigue los pasos  
-3. El programa instalará automáticamente todas las dependencias  
+3. El programa instalará automáticamente todas las dependencias
+4. Ejecuta pip install selenium undetected-chromedriver fake-useragent names en cmd
 
 ## 🚀 Uso  
 1. Abre la aplicación  
